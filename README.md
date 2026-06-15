@@ -1,3 +1,31 @@
+# BizStocks
+
+BizStocks is a modern inventory and stock management platform designed to help businesses efficiently manage products, inventory levels, sales records, and business analytics. The platform provides an intuitive dashboard for tracking stock movements, monitoring sales performance, and making data-driven business decisions.
+
+## Features
+
+- Inventory Management
+- Product Tracking
+- Sales Monitoring
+- Dashboard Analytics
+- User Authentication
+- Real-Time Stock Updates
+- Business Insights & Reporting
+
+## Tech Stack
+
+- React.js
+- Node.js
+- Express.js
+- Firebase
+- Tailwind CSS
+- JavaScript
+
+## Installation
+
+npm install
+npm run dev
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -11,6 +39,3 @@ Currently, two official plugins are available:
 
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
